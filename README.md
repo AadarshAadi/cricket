@@ -61,10 +61,6 @@ SETUP INSTRUCTIONS
 SCREENSHOT
 ------------------------------------
 
-Deployment: https://your-deployment-link.com
-
-Screenshot: 
-
 [Landing Page](./Screenshots/front.png)
 
 [Dashboard](./Screenshots/dash.png) 
